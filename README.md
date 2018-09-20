@@ -1,2 +1,5 @@
 # ontology-andriod-sdk-ex
-ontology java sdk for android, use java1.7
+
+fork from [ontology-andriod-sdk](https://github.com/ontio-community/ontology-andriod-sdk), this project is a android library that can be used as a git submodule in other android app.
+
+when ontology-andriod-sdk update, i will follow it.
